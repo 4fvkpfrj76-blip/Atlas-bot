@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Atlas Bot</title>
+
+<style>
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#0d1117;
+color:white;
+text-align:center;
+}
+
+header{
+padding:80px 20px;
+background:#161b22;
+}
+
+h1{
+font-size:60px;
+margin:0;
+color:#5865F2;
+}
+
+p{
+font-size:20px;
+max-width:700px;
+margin:auto;
+line-height:1.6;
+}
+
+.button{
+display:inline-block;
+margin-top:30px;
+padding:15px 35px;
+background:#5865F2;
+color:white;
+text-decoration:none;
+border-radius:10px;
+font-size:18px;
+}
+
+section{
+padding:60px 20px;
+}
+
+.card{
+background:#161b22;
+padding:20px;
+margin:20px auto;
+max-width:700px;
+border-radius:12px;
+}
+
+footer{
+padding:30px;
+background:#161b22;
+color:#888;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>🌍 Atlas Bot</h1>
+
+<p>
+Atlas Bot is your all-in-one Discord companion, providing powerful moderation,
+automation, utilities, giveaways, reaction roles, and much more.
+</p>
+
+<a class="button" href="#">Invite Atlas</a>
+</header>
+
+<section>
+
+<h2>Features</h2>
+
+<div class="card">
+🛡️ Advanced Moderation
+</div>
+
+<div class="card">
+🤖 Auto Moderation
+</div>
+
+<div class="card">
+🎉 Giveaways
+</div>
+
+<div class="card">
+🎭 Reaction Roles
+</div>
+
+<div class="card">
+📊 Server Utilities
+</div>
+
+<div class="card">
+🚀 Constant Updates
+</div>
+
+</section>
+
+<section id="terms">
+
+<h2>Terms of Service</h2>
+
+<p>
+By using Atlas Bot, you agree to follow Discord's Terms of Service.
+Atlas Bot is provided "as is" and may change at any time.
+</p>
+
+</section>
+
+<section id="privacy">
+
+<h2>Privacy Policy</h2>
+
+<p>
+Atlas Bot may store Discord IDs and server settings required for its features.
+Atlas Bot does not sell your data or collect passwords or payment information.
+</p>
+
+</section>
+
+<footer>
+
+© 2026 Atlas Bot
+
+<br><br>
+
+Not affiliated with Discord Inc.
+
+</footer>
+
+</body>
+</html>
